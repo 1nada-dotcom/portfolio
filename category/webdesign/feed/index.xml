@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web Design &#8211; ポートフォリオ（ロゴ）</title>
+	<atom:link href="http://localhost/category/webdesign/feed/?simply_static_page=72" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Jan 2023 11:52:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>ECサイトデザイン</title>
+		<link>./../../../ec%e3%82%b5%e3%82%a4%e3%83%88%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/index.html</link>
+		
+		<dc:creator><![CDATA[1nada]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2023 11:41:03 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1191</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="490" height="887" src="./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b.png" alt="" class="wp-image-1192" srcset="./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b.png 490w, ./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b-166x300.png 166w" sizes="(max-width: 490px) 100vw, 490px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>クリニックのWebサイトデザイン</title>
+		<link>./../../../%e3%82%af%e3%83%aa%e3%83%8b%e3%83%83%e3%82%af%e3%81%aeweb%e3%82%b5%e3%82%a4%e3%83%88%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/index.html</link>
+		
+		<dc:creator><![CDATA[1nada]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2023 11:26:23 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1177</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-607x1024.png" alt="" class="wp-image-1178" width="392" height="661" srcset="./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-607x1024.png 607w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-178x300.png 178w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-768x1295.png 768w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-911x1536.png 911w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-1214x2048.png 1214w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4.png 1366w" sizes="(max-width: 392px) 100vw, 392px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
