@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>LP Design &#8211; いなだはるかのポートフォリオ（編集中）</title>
-	<atom:link href="http://localhost/category/lpdesign/feed/?simply_static_page=254" rel="self" type="application/rss+xml" />
+	<title>LP Design &#8211; いなだはるかのポートフォリオ（WIP）</title>
+	<atom:link href="http://localhost/category/lpdesign/feed/?simply_static_page=351" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Jan 2023 11:52:19 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/cropped-00000000-32x32.png</url>
+	<title>LP Design &#8211; いなだはるかのポートフォリオ（WIP）</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>学習塾のLPデザイン</title>
 		<link>./../../../%e5%ad%a6%e7%bf%92%e5%a1%be%e3%81%aelp%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/index.html</link>
