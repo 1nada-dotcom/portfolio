@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Banner &#8211; ポートフォリオ（ロゴ）</title>
-	<atom:link href="http://localhost/category/banner/feed/?simply_static_page=166" rel="self" type="application/rss+xml" />
+	<title>Banner &#8211; いなだはるかのポートフォリオ（編集中）</title>
+	<atom:link href="http://localhost/category/banner/feed/?simply_static_page=255" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 24 Jan 2023 12:59:20 +0000</lastBuildDate>
