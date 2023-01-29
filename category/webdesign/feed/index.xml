@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Web Design &#8211; いなだはるかのポートフォリオ（WIP）</title>
-	<atom:link href="http://localhost/category/webdesign/feed/?simply_static_page=347" rel="self" type="application/rss+xml" />
+	<title>Web Design &#8211; いなだはるかのポートフォリオ</title>
+	<atom:link href="http://localhost/category/webdesign/feed/?simply_static_page=440" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Jan 2023 11:52:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2023 14:12:44 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,13 +22,13 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2023/01/cropped-00000000-32x32.png</url>
-	<title>Web Design &#8211; いなだはるかのポートフォリオ（WIP）</title>
+	<title>Web Design &#8211; いなだはるかのポートフォリオ</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>ECサイトデザイン</title>
+		<title>キャンプ用品のECサイト（デザインのみ）</title>
 		<link>./../../../ec%e3%82%b5%e3%82%a4%e3%83%88%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -36,16 +36,76 @@
 				<category><![CDATA[Web Design]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1191</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[キャンプ用品のECサイト（デザインのみ） ターゲット 20〜30代くらいの社会人。 休みの日のキャンプを趣味にしているorこれからキャンプを始めてみたいと思 …]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="490" height="887" src="./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b.png" alt="" class="wp-image-1192" srcset="./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b.png 490w, ./../../../wp-content/uploads/2023/01/563c0077eb30ee535c990328f8a8199b-166x300.png 166w" sizes="(max-width: 490px) 100vw, 490px" /></figure>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>キャンプ用品のECサイト（デザインのみ）</strong></h2></div></div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>20〜30代くらいの社会人。</p>
+
+
+
+<p>休みの日のキャンプを趣味にしているorこれからキャンプを始めてみたいと思っている。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Photoshop / Illustrator</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空のキャンプ用品ECサイトのデザインを作成しました。</p>
+
+
+
+<p>写真を大きめに使うことで、キャンプのワクワク感をイメージしやすくしました。</p>
+
+
+
+<p>緑系の色合いで統一させ、落ち着いた自然を表現しました。</p>
+
+
+
+<p>商品カテゴリーのページは、シンプルなアイコンを使うことで</p>
+
+
+
+<p>小さいスマートフォン画面でも分かりやすくしました。</p>
+
+
+
+<p>ロゴはIllustratorを使って作成しました。</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>クリニックのWebサイトデザイン</title>
+		<title>レディースクリニックのWebサイト（デザインのみ）</title>
 		<link>./../../../%e3%82%af%e3%83%aa%e3%83%8b%e3%83%83%e3%82%af%e3%81%aeweb%e3%82%b5%e3%82%a4%e3%83%88%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -53,9 +113,73 @@
 				<category><![CDATA[Web Design]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1177</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[レディースクリニックのWebサイト（デザインのみ） ターゲット 20代〜40代の社会人女性。女性特有の不調があり、どこかに受診しようかと病院の情報収集をして …]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-607x1024.png" alt="" class="wp-image-1178" width="392" height="661" srcset="./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-607x1024.png 607w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-178x300.png 178w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-768x1295.png 768w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-911x1536.png 911w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4-1214x2048.png 1214w, ./../../../wp-content/uploads/2023/01/cd089c7812267950ed2a52db64f4e2a4.png 1366w" sizes="(max-width: 392px) 100vw, 392px" /></figure>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>レディースクリニックのWebサイト（デザインのみ）</strong></h2></div></div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>20代〜40代の社会人女性。女性特有の不調があり、どこかに受診しようかと病院の情報収集をしている人。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Photoshop</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空のレディースクリニックのWEBサイトデザインを作成しました。</p>
+
+
+
+<p>全体的にピンクの優しい色合いにすることで、女性に寄り添うイメージを演出しました。</p>
+
+
+
+<p>また、シンプルなアイコンを使用したり、受診できる日時をすぐ確認できるように</p>
+
+
+
+<p>診療時間案内をトップページに置きました。</p>
+
+
+
+<p>そうすることで、忙しい社会人も情報を分かりやすく入手できるため、</p>
+
+
+
+<p>クリニック受診へのハードルも下がると考えました。</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		

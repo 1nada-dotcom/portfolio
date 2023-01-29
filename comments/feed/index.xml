@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	いなだはるかのポートフォリオ（WIP） へのコメント	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=290" rel="self" type="application/rss+xml" />
+	いなだはるかのポートフォリオ へのコメント	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=386" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 28 Jan 2023 13:19:28 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2023 14:31:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

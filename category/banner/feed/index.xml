@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Banner &#8211; いなだはるかのポートフォリオ（WIP）</title>
-	<atom:link href="http://localhost/category/banner/feed/?simply_static_page=357" rel="self" type="application/rss+xml" />
+	<title>Banner &#8211; いなだはるかのポートフォリオ</title>
+	<atom:link href="http://localhost/category/banner/feed/?simply_static_page=449" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 28 Jan 2023 12:43:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2023 14:12:09 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2023/01/cropped-00000000-32x32.png</url>
-	<title>Banner &#8211; いなだはるかのポートフォリオ（WIP）</title>
+	<title>Banner &#8211; いなだはるかのポートフォリオ</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
@@ -105,7 +105,7 @@
 		
 			</item>
 		<item>
-		<title>化粧品バナー</title>
+		<title>女性用化粧品のバナー</title>
 		<link>./../../../%e5%8c%96%e7%b2%a7%e5%93%81%e3%83%90%e3%83%8a%e3%83%bc/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -113,16 +113,84 @@
 				<category><![CDATA[Banner]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1435</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[女性用化粧品のバナー ターゲット 20〜30代の女性。肌荒れが気になるが高い化粧品には手が出ない。 使用ツール Photoshop コメント 架空の女性用化 …]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="800" src="./../../../wp-content/uploads/2023/01/a47aa5e3f264e20b415c540d4a444d49-1.png" alt="" class="wp-image-1436" srcset="./../../../wp-content/uploads/2023/01/a47aa5e3f264e20b415c540d4a444d49-1.png 800w, ./../../../wp-content/uploads/2023/01/a47aa5e3f264e20b415c540d4a444d49-1-300x300.png 300w, ./../../../wp-content/uploads/2023/01/a47aa5e3f264e20b415c540d4a444d49-1-150x150.png 150w, ./../../../wp-content/uploads/2023/01/a47aa5e3f264e20b415c540d4a444d49-1-768x768.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>女性用化粧品のバナー</strong></h2></div></div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>20〜30代の女性。肌荒れが気になるが高い化粧品には手が出ない。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Photoshop</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空の女性用化粧品のバナーを作成しました。</p>
+
+
+
+<p>自然派の化粧品であることと、初回割引があることをアピールしたいと仮定しました。</p>
+
+
+
+<p>草木の写真と商品を合成し、文字色も草木をイメージさせる色にしたことで、</p>
+
+
+
+<p>自然派なイメージが付きやすくしました。</p>
+
+
+
+<p>割引情報は、女性らしい優しい色合いにしつつ</p>
+
+
+
+<p>リボンのマークを使用して目立たせました。</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>弁護士バナー</title>
+		<title>法律事務所のバナー</title>
 		<link>./../../../%e5%bc%81%e8%ad%b7%e5%a3%ab%e3%83%90%e3%83%8a%e3%83%bc/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -130,16 +198,72 @@
 				<category><![CDATA[Banner]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1432</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[法律事務所のバナー ターゲット 借金問題で悩んでいる人。どこかに相談したいと思っている人。 使用ツール Illustrator コメント 架空の法律事務所の …]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="876" height="819" src="./../../../wp-content/uploads/2023/01/2548058fd9ee32b77bc4057125c4c4eb-1.png" alt="" class="wp-image-1433" srcset="./../../../wp-content/uploads/2023/01/2548058fd9ee32b77bc4057125c4c4eb-1.png 876w, ./../../../wp-content/uploads/2023/01/2548058fd9ee32b77bc4057125c4c4eb-1-300x280.png 300w, ./../../../wp-content/uploads/2023/01/2548058fd9ee32b77bc4057125c4c4eb-1-768x718.png 768w" sizes="(max-width: 876px) 100vw, 876px" /></figure>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>法律事務所のバナー</strong></h2></div></div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>借金問題で悩んでいる人。どこかに相談したいと思っている人。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Illustrator</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空の法律事務所のバナーを作成しました。</p>
+
+
+
+<p>借金問題に強い法律事務所で、実績多数な点や初期費用無料など、相談へのハードルの低さを売りにしていると仮定しています。</p>
+
+
+
+<p>イラストや明るい色を使用し、ポップなイメージを持たせることで親しみやすさを感じさせるようにしました。</p>
+
+
+
+<p>また、上記の強みを3つのポイントで示すことで信頼感を与えられるようにしました。</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>バナー　アパレルブランドのInstagram広告</title>
+		<title>アパレルブランドのInstagram広告バナー</title>
 		<link>./../../../%e3%83%90%e3%83%8a%e3%83%bc%e3%80%80%e3%82%a2%e3%83%91%e3%83%ac%e3%83%ab%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89%e3%81%aeinstagram%e5%ba%83%e5%91%8a/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -147,14 +271,57 @@
 				<category><![CDATA[Banner]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1349</guid>
 
-					<description><![CDATA[テーマ アパレルブランドのInstagram広告 ターゲット 普段からInstagramを利用する20〜30代女性 うわあああああああああああああああああああ]]></description>
+					<description><![CDATA[アパレルブランドのInstagram広告バナー ターゲット 毎日Instagramを利用する女性。ファッションに関してはプチプラ志向。 使用ツール Phot …]]></description>
 										<content:encoded><![CDATA[
-<div class="alignfull ystdb-section" style="padding-top:80px;padding-bottom:80px;margin-top:0;margin-bottom:0"><div class="ystdb-section__container"><div class="ystdb-section__inner" style="margin-right:auto;margin-left:auto;padding-left:0;padding-right:0">
-<p><span class="ystdb-inline--2"><strong>テーマ</strong></span></p>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>アパレルブランドのInstagram広告バナー</strong></h2></div></div>
 
 
 
-<p>アパレルブランドのInstagram広告</p>
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>毎日Instagramを利用する女性。ファッションに関してはプチプラ志向。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Photoshop</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空のアパレルブランドのセール告知バナーを作成しました。</p>
+
+
+
+<p>Instagramのフィード広告に使用するバナーと仮定しています。</p>
+
+
+
+<p>明るめの色を使用し、文字を目立たせるために縦二列の配置にすることで、</p>
+
+
+
+<p>多数のInstagram投稿の中でも目に留まるようにしました。</p>
 
 
 
@@ -162,27 +329,18 @@
 
 
 
-<p><span class="ystdb-inline--2"><strong>ターゲット</strong></span></p>
-
-
-
-<p>普段からInstagramを利用する20〜30代女性</p>
-
-
-
 <p></p>
 
 
 
-<p>うわあああああああああああああああああああ</p>
-</div></div></div>
+<p></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>お歳暮バナー</title>
+		<title>お歳暮特集のバナー</title>
 		<link>./../../../%e3%83%90%e3%83%8a%e3%83%bc/index.html</link>
 		
 		<dc:creator><![CDATA[1nada]]></dc:creator>
@@ -190,9 +348,61 @@
 				<category><![CDATA[Banner]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1186</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[お歳暮特集のバナー ターゲット 60代〜。毎年親族へお歳暮を送る習慣がある。身内とのつながりを大切にしている。 使用ツール Photoshop コメント 架 …]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="800" height="800" src="./../../../wp-content/uploads/2023/01/a988da91aad8d389f5b2ed62dbf9e628.png" alt="" class="wp-image-1187" srcset="./../../../wp-content/uploads/2023/01/a988da91aad8d389f5b2ed62dbf9e628.png 800w, ./../../../wp-content/uploads/2023/01/a988da91aad8d389f5b2ed62dbf9e628-300x300.png 300w, ./../../../wp-content/uploads/2023/01/a988da91aad8d389f5b2ed62dbf9e628-150x150.png 150w, ./../../../wp-content/uploads/2023/01/a988da91aad8d389f5b2ed62dbf9e628-768x768.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<div class="ystdb-heading has-text-align-left"><div class="ystdb-heading__container"><h2 class="ystdb-heading__text is-clear-style"><strong>お歳暮特集のバナー</strong></h2></div></div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong><span class="ystdb-inline--2">ターゲット</span></strong></p>
+
+
+
+<p>60代〜。毎年親族へお歳暮を送る習慣がある。身内とのつながりを大切にしている。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>使用ツール</strong></span></p>
+
+
+
+<p>Photoshop</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><span class="ystdb-inline--2"><strong>コメント</strong></span></p>
+
+
+
+<p>架空のオンラインショッピングサイト（お歳暮特集ページ）のバナーを作成しました。</p>
+
+
+
+<p>高級志向の商品を中心に特集されていると仮定しているので、</p>
+
+
+
+<p>高級感のある落ち着いた色味にしました。</p>
+
+
+
+<p>蟹の画像を大きめに使い、湯気の加工をつけることで</p>
+
+
+
+<p>商品が立派に見えるようにしました。</p>
 ]]></content:encoded>
 					
 		
